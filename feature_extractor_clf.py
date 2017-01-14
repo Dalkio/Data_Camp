@@ -1,6 +1,4 @@
 import numpy as np
-# import pandas as pd
-
 
 class FeatureExtractorClf():
     def __init__(self):
